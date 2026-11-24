@@ -1127,6 +1127,8 @@ footer {
 
 .telegram-btn i,
 .telegram-contact i {
+  position: relative;
+  bottom: -4px;
   font-size: 19px;
 }
 

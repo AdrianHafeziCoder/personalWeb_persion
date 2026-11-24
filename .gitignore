@@ -1,0 +1,34 @@
+# وابستگی‌ها
+node_modules/
+
+# خروجی build
+dist/
+dist-ssr/
+
+# فایل‌های محیطی (کلیدها و رمزها)
+.env
+.env.*
+!.env.example
+
+# لاگ‌ها
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# کش
+.vite/
+.cache/
+*.tsbuildinfo
+
+# ادیتور
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# سیستم‌عامل
+.DS_Store
+Thumbs.db
+desktop.ini
