@@ -1125,7 +1125,11 @@ footer {
   transform: translateY(-5px);
 }
 
-.telegram-btn i,
+.telegram-btn i {
+  position: relative;
+  bottom: -1px;
+  font-size: 19px;
+}
 .telegram-contact i {
   position: relative;
   bottom: -4px;

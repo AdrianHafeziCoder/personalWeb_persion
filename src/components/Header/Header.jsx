@@ -30,8 +30,7 @@ function Header() {
           rel="noopener noreferrer"
           className="btn btn-primary telegram-btn"
         >
-          <i className="fa-brands fa-telegram"></i>
-          ارتباط از طریق تلگرام
+          <i className="fa-brands fa-telegram"></i> ارتباط از طریق تلگرام
         </a>
       </nav>
 
