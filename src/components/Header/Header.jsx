@@ -95,9 +95,9 @@ function Header() {
 
             <div className="profile-frame">
               <img
-                src="/img/photo_2026-11-13_09-55-49.jpg"
+                src={`${import.meta.env.BASE_URL}img/photo_2026-11-13_09-55-49.jpg`}
                 alt="تصویر پروفایل حسین حافظی"
-              />{" "}
+              />
             </div>
 
             <div className="profile-tag">
